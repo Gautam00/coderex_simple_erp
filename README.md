@@ -6,10 +6,12 @@
 
 > git clone https://github.com/Gautam00/coderex_simple_erp.git
 
-#### Since this project is based on Laravel framework so add .env file and setup database. Alos create a database.
+#### Since this project is based on Laravel framework so add .env file and setup database. Also create a database.
 
 > DB_DATABASE=*****
+
 > DB_USERNAME=*****
+
 > DB_PASSWORD=*****
 
 #### Install composer files
